@@ -1,0 +1,49 @@
+h1, footer{
+    margin: auto;
+    padding: auto;
+    border: 2PX solid green;
+    border-radius: 10px;
+    text-align: center;
+    font-size: larger;
+}
+
+footer{
+    text-align: left;
+    margin: auto;
+    padding: auto;
+    font-size: medium;
+}
+
+h2{
+   margin: 20px;
+   padding: 15px;
+}
+
+body{
+     width: auto;
+     max: width 25px;
+     font: 100;
+     padding: 15%;
+     
+}
+figcaption{
+     font-style: bold;
+     font-variant: small-caps;
+
+}
+q{
+    font-family: cursive;
+    font-style: italic;
+    font-size: large;
+    
+}
+
+ul li{
+    line-height: 10px;
+
+}
+
+a:hover{
+    color: beige;
+    
+}

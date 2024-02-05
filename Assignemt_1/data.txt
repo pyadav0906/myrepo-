@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head> 
+  <link rel="stylesheet" href="reset.css">
+  <link rel="stylesheet" href="style.css">
+  <!-- Name: Pruthvi Yadav 
+    Student Number: 8980906 -->
+</head>
+
+<body>
+  
+  <header>
+    <h1>Maharana Pratap</h1>
+  </header>
+
+  <main>
+    
+    <section>
+      <h2>Biography</h2>
+      <p><strong>Biography:</strong> Maharana Pratap, the valiant Rajput warrior, was born in 1540. He is known for his courage and dedication to protecting his kingdom.</p>
+    </section>
+    <a href="https://www.bing.com/ck/a?!&&p=c4cddf2cbf89aad7JmltdHM9MTcwNzAwNDgwMCZpZ3VpZD0wZWExMjI5Ni1hYmZhLTZlZGEtMWQ0YS0zMGQyYWE0ODZmODYmaW5zaWQ9NTU1MQ&ptn=3&ver=2&hsh=3&fclid=0ea12296-abfa-6eda-1d4a-30d2aa486f86&psq=maharana+pratap&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWFoYXJhbmFfUHJhdGFw&ntb=1">Additional Information</a>
+
+    <section>
+      <h2>Images</h2>
+      
+      <figure>
+        <img src="image/Absolute.jpeg.jpeg">
+        <figcaption>Maharana Pratap </figcaption>
+      </figure>
+
+      <figure>
+        <img src="image/relative.jpeg.jpeg">
+        <figcaption>Maharana Pratap Portrait</figcaption>
+      </figure>
+    </section>
+
+    <section>
+      <h2>Quotes</h2>
+      
+      <q cite="source-url">"I would rather live a life of struggle than bow my head before the enemy."</q>
+      <footer>
+    
+        <p>&copy; Pruthvi, 2005</p>
+      </footer>
+    </section>
+    <aside>
+  
+    </aside>
+  </main>
+
+  
+
+  
